@@ -2,8 +2,8 @@
 multivariateScatter <- function(data,num1,num2,cat)
 {
   plot(data[,num1],data[,num2],
-       xlim=c(0,400),
-       ylim=c(0,400),
+       xlim=c(0,60),
+       ylim=c(0,60),
        xlab=num1,
        ylab=num2,
        main  = paste('Scatter plot of',num1,'and',num2,'by',cat),
