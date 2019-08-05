@@ -1,0 +1,11 @@
+Package: multivariateScatter
+Type: Package
+Title: creates multivariate scatter plot
+Version: 0.1.0
+Author: Deepshikha Sharma
+Maintainer: Deepshikha <deepshikhabsharma@gmail.com>
+Description: creates multivariate scatter plot
+License: GPL-3
+Encoding: UTF-8
+LazyData: FLASE
+RoxygenNote: 6.1.1
