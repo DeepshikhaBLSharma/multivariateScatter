@@ -2,7 +2,7 @@
 \alias{multivariateScatter}
 \title{multivariateScatter}
 \usage{
-multivariateScatter(data,num1,num2,cat)
+returns multivariate scatter plot
 }
 \description{
 returns multivariate scatter plot
